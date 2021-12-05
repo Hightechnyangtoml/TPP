@@ -1,0 +1,5 @@
+name: TPP
+version: '${project.version}'
+main: com.tdev.tpp.TPP
+authors: [ Lunar_Theta ]
+description: Lunar_Theta's Practice Plugin
